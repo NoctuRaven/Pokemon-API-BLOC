@@ -16,7 +16,7 @@ An application with API access that displays a list of pokemons and gives access
 # State management
 - BLOC
 
-##
+
 
 <p align="center">
   <img src="https://github.com/NoctuRaven/Pokedex-API/blob/main/lib/assets/images/Pokedex1.jpg" width="350">
