@@ -1,16 +1,22 @@
 # pokedex_bloc
 
-A new Flutter project.
+Pokedex App 
 
-## Getting Started
+## About this project
+An application with API access that displays a list of pokemons and gives access to their status.
 
-This project is a starting point for a Flutter application.
+# Main Packages
+- BLOC
+- DIO
+- percent_indicator
 
-A few resources to get you started if this is your first Flutter project:
+# Design Pattern
+- Clean Architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# State management
+- BLOC
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##
+
+  <img src="https://github.com/NoctuRaven/Pokedex-API/blob/main/lib/assets/images/Pokedex1.jpg" width="350">
+  <img src="https://github.com/NoctuRaven/Pokedex-API/blob/main/lib/assets/images/Pokedex2.jpg" width="350">
